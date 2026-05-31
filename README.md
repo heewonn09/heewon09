@@ -23,7 +23,8 @@ IoT 디바이스 연동 및 시스템 구축 프로젝트를 경험했습니다.
 - 📡 **IoT 디바이스(MQTT) 연동 스마트홈 프로젝트 개발**
 - 📱 React / React Native 기반 서비스 구현 경험
 
-- [포트폴리오](https://www.notion.so/1eced7ed6e4480a9baa4e06a471d7763?source=copy_link)
+- [웹 포트폴리오](https://heewonn09.github.io/portfolio/)
+- [노션 포트폴리오](https://www.notion.so/35eed7ed6e4480099195c22cf179891a?source=copy_link)
 
 
 ---

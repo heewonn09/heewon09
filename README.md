@@ -25,7 +25,7 @@ Spring Boot 기반 REST API 개발부터 RAG 챗봇 시스템, IoT 디바이스 
 ## About Me
 
 - Spring Boot 기반 REST API 설계 · 구현 · 운영까지 고려한 백엔드 개발
-- RAG + LLM 구조 설계로 AI 챗봇 응답속도 **4~5초 → 0.3~0.8초** 단축, 비용 **80% 절감**
+- RAG + LLM 구조 설계로 AI 챗봇 응답속도 **4 ~ 5초 → 0.3 ~ 0.8초** 단축, 비용 **80% 절감**
 - MQTT 기반 IoT 디바이스 제어 + 자연어 → 디바이스 명령 변환 시스템 구현
 - OpenAI Codex · Claude Code 기반 **Vibe Coding** — 설계 주도 AI 협업 개발 경험
 - filesystem · GitHub · Notion · Pinecone **MCP 서버 연동** 경험
